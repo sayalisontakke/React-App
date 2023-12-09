@@ -1,3 +1,5 @@
+Project Aim: Implemented React CI/CD pipeline with Kali Linux for development, leveraging GitHub Actions, and deploying to AWS EC2.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
